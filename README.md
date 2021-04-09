@@ -1,6 +1,13 @@
 <!-- @format -->
 
 # G14Control Windows Desktop App
+</ul>
+
+Currently this **ONLY** works and **tested** for ***G14*** **_2020_**
+
+*You can try on G14* **2021** **AT YOUR OWN RISK**
+
+---
 
 ![Build/release](https://github.com/aredden/electron-G14Control/workflows/Build/release/badge.svg)
 
